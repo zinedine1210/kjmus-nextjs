@@ -5,7 +5,7 @@ const SEO = ({ title, description, image, router}) => {
   const defaultTitle = "KOPERASI JASA MITRA USAHA SENTOSA",
     defaultDescription = "WEBSITE KOPERASI JASA MITRA USAHA SENTOSA",
     siteUrl = "https://koperasi-jmus.herokuapp.com",
-    defaultImage = `${siteUrl}/icons/android-chrome-192x192.png`,
+    defaultImage = `${siteUrl}/icongen/android-chrome-192x192.png`,
     twitterUsername = "koperasijasamitrausahasentosa"
     // twitterUsername,
   
